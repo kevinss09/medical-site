@@ -106,7 +106,7 @@ export default function SignUp() {
 								to="/Login"
 								className="font-light text-[#00A3FF] text-sm tracking-wider ml-1"
 							>
-								Register
+								Log in
 							</Link>
 						</div>
 					</form>
